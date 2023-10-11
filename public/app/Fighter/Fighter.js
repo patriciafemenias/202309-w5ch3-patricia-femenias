@@ -1,6 +1,6 @@
 import Character from "../Character/Character.js";
 
-class Fighter {
+class Fighter extends Character {
   weapon;
   skills;
 
