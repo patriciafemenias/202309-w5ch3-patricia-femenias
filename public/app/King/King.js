@@ -1,6 +1,6 @@
 import Character from "../Character/Character.js";
 
-class King {
+class King extends Character {
   yearsOfReign;
 
   comunicate() {
