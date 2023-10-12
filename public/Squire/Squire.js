@@ -1,4 +1,4 @@
-import Character from "../Character/Character";
+import Character from "../Character/Character.js";
 
 class Squire extends Character {
   suckUpGrade;
